@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        // Use PATH+EXTRA to append to PATH properly test
+        // Use PATH+EXTRA to append to PATH properly 
 
         PATH = "/usr/bin:/bin:/opt/homebrew/bin"
 
