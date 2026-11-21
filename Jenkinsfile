@@ -12,7 +12,7 @@ pipeline {
 
     stages {
  
-        stage('pull scm git ') {
+        stage('pull scm git test ') {
 
             steps {
 
